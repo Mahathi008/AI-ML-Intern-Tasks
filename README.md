@@ -28,3 +28,10 @@ Conclusion:
 
 Preprocessing improves data quality and helps build better ML models.
 ---
+
+Day 4 Task
+---
+
+# Logistic Regression
+
+Built a binary classification model using Logistic Regression on the Breast Cancer dataset. Evaluated performance using confusion matrix, precision, recall, and ROC-AUC.
